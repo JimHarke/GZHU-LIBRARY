@@ -1,4 +1,4 @@
-name: 每日任务自动化
+name: 预约
 
 on:
   schedule:
